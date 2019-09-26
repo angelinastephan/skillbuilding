@@ -1,5 +1,25 @@
 # skillbuilding
 describe how to create a new repository and change descriptions
-To create a new repositor, go to home page of Github and click on the green button,which named new. On the open page,inout the name at the blank under the button called Rerository name. Write down the simple description in the blank under the Description botton, which is optional. Choose Pulic, and tick the Initialize this repository with a README, which will let you clone the repository immediately to your local computer. At "Add gitingore:", click the arrow to choose "node" for now. Leave the part "Add the licience" to "none". Click the button named " Create repository", and then the repository has been created. 
-To make commend, go to home pare and click the repository you want to commend. Click the Readme. ed file,click the editor button, which is a shape of pen. In the edit file, you can change the name of the repositories , you can add more words to describe any change about the files for youself and others' reference. 
-after add the change, you need scrool down to commite the change. 
+
+Create a new repositor, 
+                     Go to home page of Github, 
+                     Click on "new"button
+                     Type down the Repository name. You may name your repository as you like.
+                     Write down the simple description. It is Optional but is better to do.
+                     Scoll down and choose "Pulic"
+                     Tick "Initialize this repository with a README, which will let you clone the repository immediately to                        your local computer. 
+                     Found out "Add gitingore:", click the arrow to choose "node" for now. 
+                     Leave the part "Add the licience" to "none". 
+                     Click the button " Create repository"
+                     
+Make commend, 
+                      go to home page
+                      Click the repository you want to commend. 
+                      Click "Readme". 
+                      
+Edit  a file,
+
+                      Click the icon, the pen image. It means edition.
+                      Choose "Edit file", to change the name of the repositories , or add more words to describe any changes                         about the files for youself and others' reference. 
+Save the change      
+                      Scoll down and  click "commite changes
