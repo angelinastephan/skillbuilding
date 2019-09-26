@@ -21,5 +21,17 @@ Edit  a file,
 
                       Click the icon, the pen image. It means edition.
                       Choose "Edit file", to change the name of the repositories , or add more words to describe any changes                         about the files for youself and others' reference. 
-Save the change      
+Save the change,      
                       Scoll down and  click "commite changes
+                      
+clone the repository to the local computer,
+                      Go the home page
+                      Click the repository you want to clone
+                      Naviget to and click on "Clone or Download". I locates at the right, middle of the page.
+                      Then, click the icon next to the ul This fuction of this icon is to copy this ul.
+                      go to the terminal, found out the directory you want
+                      type "git clone + space + Command C" 
+Push the changed code to the serve,
+                       in Terminal, type" git add + file name"
+                      
+                      
