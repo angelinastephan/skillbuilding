@@ -33,5 +33,16 @@ clone the repository to the local computer,
                       type "git clone + space + Command C" 
 Push the changed code to the serve,
                        in Terminal, type" git add + file name"
-                      
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       #CHAPTER GIT
                       
